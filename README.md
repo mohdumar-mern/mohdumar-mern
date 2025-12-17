@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Mohammad Umar
 
-🚀 MERN Stack Developer   
+🚀 Full Stack Developer (MERN + Python/Django)
 🌍 Based in Noida, India  
 📧 Reach me: uk1941404@gmail.com  
 
 ---
 
 ## 💼 About Me
-I'm a passionate **MERN Stack Developer** who loves building real-world web apps using React, Node.js, Express, and MongoDB.
+I'm a passionate **Full-Stack Developer** with experience in both **MERN Stack (MongoDB, Express, React, Node.js)** and **Python (Django)**.
+I enjoy building clean, scalable, and production-ready web applications with strong backend logic and modern UI.
 
 ---
 
 ## 🔧 Tech Stack
 - ⚛️ **Frontend**: React.js, Redux Toolkit, Tailwind CSS, DaisyUI  
-- 🔗 **Backend**: Node.js, Express.js, MongoDB  
-- 🛠️ **Tools**: Git, GitHub, Postman, Vercel, Render, Firebase  
+- 🔗 **Backend**: Node.js, Express.js, MongoDB, Python, Django  
+- 🛠️ **Tools**: Git, GitHub, Postman, Docker, Vercel, Render, Firebase  
 
 ---
 
@@ -22,10 +23,10 @@ I'm a passionate **MERN Stack Developer** who loves building real-world web apps
 Here are a few of my featured projects:
 
 🔹 [**Eco Bazaar**](https://eco-bazaar-ten.vercel.app)  
-An e-commerce site with cart and dummy payments
+An e-commerce website with cart functionality and dummy payments.
 
-🔹 [**3D Portfolio (Coming Soon)**]  
-React + Blender-powered 3D developer portfolio with animated models.
+🔹 [**Blog Website (Django)**](https://blog-app-jpq9.onrender.com/)  
+A full-stack blog application built using Django with user authentication, post creation, image upload, and clean UI. Supports login/register, protected routes, and dynamic content rendering.
 
 ---
 
@@ -37,5 +38,5 @@ React + Blender-powered 3D developer portfolio with animated models.
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [Portfolio Website](https://mohd-umar-mern.vercel.app)
+- 🌐 [Portfolio Website](https://umarportfolio-frontend.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohd-umar-mern-stack-developer/)
